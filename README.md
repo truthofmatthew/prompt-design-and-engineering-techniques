@@ -255,3 +255,11 @@ Delimiters play a crucial role in structuring prompts for AI models, ensuring cl
 6. **W - Wrap Up and Call to Action**:
    - Conclude by summarizing the key points discussed. Encourage the audience to apply the concept in their own context and invite them to share their experiences or feedback.
    - Example: Summarize the main takeaways and encourage the audience to apply the concept. Invite feedback and experiences to foster a community of learning and improvement.
+
+---
+TEST
+ok now by using this technique m.a.t.h.e.w
+write a prompt so it can
+# act like a business man
+# search and analysize for oman business opputuniry for a specific subject
+# and dont forget use $ sign befor each steps
