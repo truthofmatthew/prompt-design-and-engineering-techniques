@@ -14,6 +14,7 @@
 - [MATHEW Framework](#aquarius-mathew-framework)
 - [1. How to Apply Mathew](#1-how-to-apply-mathew)
 - [2. Example of Mathew](#2-example-of-mathew)
+- [Guide to Writing with Perplexity and Burstiness](#guide-to-writing-with-perplexity-and-burstiness)
 
 
 
@@ -388,3 +389,16 @@ Let's apply the M.A.T.H.E.W framework to a specific example: **"Implementing Agi
 - **Example**: Conclude by inviting teams to share their experiences with Agile transformations, fostering a community of practice where lessons learned can be exchanged.
 
 By walking through the M.A.T.H.E.W framework with this example, we've shown how to dissect and deliver a comprehensive understanding of Agile methodology, from its theoretical underpinnings to practical application, and encourage ongoing learning and adaptation. This structured approach ensures that learners can grasp complex concepts, apply them effectively, and continuously improve based on real-world experiences and feedback.
+
+---
+
+# Guide to Writing with Perplexity and Burstiness
+
+## First, prompt this
+**I’m going to give you some information**
+
+## Then prompt this
+**When it comes to writing content, two factors are crucial, “perplexity” and “burstiness.” Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand?**
+
+## Then you have to give the below prompt with the content that you want to rewrite
+**Using the concepts written previously, rewrite this article with a low amount of perplexity and a high amount of burstiness: { *Paste your content here…* }**
