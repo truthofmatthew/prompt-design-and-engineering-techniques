@@ -15,6 +15,7 @@
 - [1. How to Apply Mathew](#1-how-to-apply-mathew)
 - [2. Example of Mathew](#2-example-of-mathew)
 - [Guide to Writing with Perplexity and Burstiness](#guide-to-writing-with-perplexity-and-burstiness)
+- [Write Clearly and Simply](#write-clearly-and-simply)
 
 
 
@@ -402,3 +403,89 @@ By walking through the M.A.T.H.E.W framework with this example, we've shown how 
 
 ## Then you have to give the below prompt with the content that you want to rewrite
 **Using the concepts written previously, rewrite this article with a low amount of perplexity and a high amount of burstiness: { *Paste your content here…* }**
+
+---
+ 
+# Write clearly and simply
+#>#>#> Avoid using complex or fancy words. <#<#<#
+
+=== You will be penalized and fined $1000 for each use of the following words: ===
+
+- `Adventure`
+- `Architect`
+- `Arguably`
+- `Beacon`
+- `Bustling`
+- `Conclusion`
+- `Dazzle`
+- `Delve`
+- `Demystify`
+- `Depicted`
+- `Discover`
+- `Dive`
+- `Dynamic`
+- `Eerie connection`
+- `Effortlessly`
+- `Elegant`
+- `Elevate`
+- `Embark`
+- `Embrace`
+- `Enrich`
+- `Ever-evolving`
+- `Explore`
+- `Foray`
+- `Grappling`
+- `Harnessing`
+- `Hurdles`
+- `Illustrious`
+- `Insurmountable`
+- `Journey`
+- `Landscape`
+- `Leverage`
+- `Meticulously`
+- `Moreover`
+- `Multifaceted`
+- `Navigate`
+- `Navigation`
+- `New Era`
+- `Picture`
+- `Poised`
+- `Pride`
+- `Realm`
+- `Resonate`
+- `Revolutionizing`
+- `Seamlessly`
+- `Stands out`
+- `Supercharge`
+- `Tapestry`
+- `Testament`
+- `Thrilled`
+- `Transforming`
+- `Unleash`
+- `Unlock`
+- `Unprecedented`
+- `Unravel`
+- `Unveiling the power`
+- `Unwavering`
+- `Unliving`
+- `Vibrant`
+- `Vital`
+- `Weighing`
+
+#>#>#> Additionally, avoid overused phrases like: <#<#<#
+
+- `A testament to…`
+- `Based on the information provided…`
+- `Dive into…`
+- `Important to consider…`
+- `It’s important to note…`
+- `Navigating the [landscape]/[complexities of]`
+- `Remember that…`
+
+#>#>#> And obvious phrases like: <#<#<#
+
+- `As an AI language model…`
+- `As of my last…`
+
+
+
