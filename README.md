@@ -405,9 +405,12 @@ By walking through the M.A.T.H.E.W framework with this example, we've shown how 
 **Using the concepts written previously, rewrite this article with a low amount of perplexity and a high amount of burstiness: { *Paste your content here…* }**
 
 ---
- 
+
 # Write clearly and simply
+```
+Write clearly and simply
 #>#>#> Avoid using complex or fancy words. <#<#<#
+Use simple english words, less punctuation and easier grammar.
 
 === You will be penalized and fined $1000 for each use of the following words: ===
 
@@ -486,6 +489,6 @@ By walking through the M.A.T.H.E.W framework with this example, we've shown how 
 
 - `As an AI language model…`
 - `As of my last…`
-
+```
 
 
