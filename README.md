@@ -11,9 +11,10 @@
 - [Text-to-Image Prompt Techniques](#text-to-image-prompt-techniques)
 - [What Are Modifiers?](#no_entry_sign-what-are-modifiers)
 - [Delimiters in Prompting](#arrows_clockwise-delimiters-in-prompting)
-- [MATHEW Framework](#aquarius-mathew-framework)
+- [MATHEW Outline](#aquarius-mathew-framework)
 - [1. How to Apply Mathew](#1-how-to-apply-mathew)
 - [2. Example of Mathew](#2-example-of-mathew)
+- [the RICCE Framework](#the-ricce-framework)
 - [Guide to Writing with Perplexity and Burstiness](#guide-to-writing-with-perplexity-and-burstiness)
 - [Write Clearly and Simply](#write-clearly-and-simply)
 
@@ -393,17 +394,64 @@ By walking through the M.A.T.H.E.W framework with this example, we've shown how 
 
 ---
 
+# the RICCE framework
+
+**1. Role**
+- Define the role you want ChatGPT to assume.
+- Examples:
+  - "Act as a financial advisor to provide investment strategies for young professionals."
+  - "Assume the role of a science fiction writer and create a short story about life on Mars."
+
+**2. Instruction**
+- Give clear and specific instructions.
+- Examples:
+  - "List the top five budget-friendly European cities for backpackers, including accommodation options."
+  - "Summarize the key findings and implications of the attached research paper on renewable energy sources."
+
+**3. Context**
+- Provide background information or the reason behind the request.
+- Examples:
+  - "Design a marketing campaign for our new eco-friendly skincare line targeting millennials who practice sustainable living."
+  - "Explain quantum computing in a way that's understandable for high school students interested in physics."
+
+**4. Constraints**
+- Set boundaries or specific requirements.
+- Examples:
+  - "Keep the article under 1000 words and focus only on sustainable travel options."
+  - "Give me a list of the top 5 productivity apps for Android in under 150 words."
+
+**5. Examples**
+- Offer a model or reference for what you're expecting.
+- Examples:
+  - "Write a product review for the latest smartphone model, similar to the style found in tech magazine XYZ."
+  - "Generate a report on current real estate market trends, formatted like the annual reports produced by Real Estate Institute ABC."
+
+**Example Prompt Using RICCE Framework:**
+```
+Role: Act as a travel blogger.
+Instruction: Write a blog post about the top five budget-friendly European cities for backpackers, including accommodation options.
+Context: The blog is aimed at young travelers looking for affordable travel destinations.
+Constraints: The post should be between 800-1000 words.
+Examples: Here’s a snippet of a preferred blog style: [insert example snippet here].
+```
+
+This framework will help you create detailed, actionable prompts for better and more precise responses from ChatGPT.
+---
+
 # Guide to Writing with Perplexity and Burstiness
 
 ## First, prompt this
 **I’m going to give you some information**
 
 ## Then prompt this
-**When it comes to writing content, two factors are crucial, “perplexity” and “burstiness.” Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand?**
+```
+When it comes to writing content, two factors are crucial, “perplexity” and “burstiness.” Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand?
+```
 
 ## Then you have to give the below prompt with the content that you want to rewrite
-**Using the concepts written previously, rewrite this article with a low amount of perplexity and a high amount of burstiness: { *Paste your content here…* }**
-
+```
+Using the concepts written previously, rewrite this article with a low amount of perplexity and a high amount of burstiness: { *Paste your content here…* }
+```
 ---
 
 # Write clearly and simply
