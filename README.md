@@ -541,7 +541,7 @@ This framework will help you create detailed, actionable prompts for better and 
 # Guide to Writing with Perplexity and Burstiness
 
 ## First, prompt this
-**I’m going to give you some information**
+‍‍‍```I’m going to give you some information```
 
 ## Then prompt this
 ```
